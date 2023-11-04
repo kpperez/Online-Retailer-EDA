@@ -20,11 +20,12 @@ Our task is determining weak areas and opportunities for this online retailer to
 - Are there any issues with the database provided? 
 
 #### Tools
-Python for Data Cleaning, Data Transformation, Data Visualisation and Data Analysis
+Python and Plotly Express for Data Cleaning, Data Transformation, Data Visualisation and Data Analysis.
 
 #### Data Set
 The data set is publicly available on [Kaggle](https://www.kaggle.com/datasets/gabrielramos87/an-online-shop-business).
 
 #### Posted in
-- [Jupyter Notebook Viewer]()
-- [Kaggle: Sales Analysis on Super Store]()
+- [Jupyter Notebook Viewer](https://nbviewer.org/github/kpperez/Online-Retailer-EDA/blob/main/PXecommerce.ipynb)
+- [Kaggle: Plotly.Express Online Retailer EDA](https://www.kaggle.com/code/kpperez/plotly-express-online-retailer-eda/notebook?scriptVersionId=149325759)
+- **Note:** GitHub does not support interactive graphs. You must view it through one of the above links.
